@@ -27,6 +27,4 @@ build/Release
 node_modules
 
 .idea
-!dest
 dest/*
-dest/.module-cache
